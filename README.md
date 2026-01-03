@@ -5,8 +5,6 @@
 > **Serverless Runtime**
 > 
 > **Running VLESS-WS-TLS/TCP inside Cloudflare Edge/Serverless runtime**  
->  
-> Base on [zizifn] and [harmony]
 >
 > <br/>
 > 
@@ -278,68 +276,4 @@
 
 <br/><br/>
 
-## لینک دانلود کلاینت‌ها
-برای راحتی، می‌تونید از دکمه‌های موجود در پنل مدیریت خود جهت افزودن لینک‌های اشتراک به کلاینت‌ها استفاده کنید، در زیر لینک دانلود دیگر کلاینت‌ها قرار داده شده است:
-
-- **Xray Core Clients:**
-  - [Hiddify]
-  - [v2RayNG] ⭐ (Recommended)
-  - [MahsaNG]
-  - [Streisand]
-  - [Nekoray]
-  - [Throne]
-  - [v2rayN]
-  - [v2rayN-Pro]
-  - [v2rayTun]  
-  - [Happ]  
-
-- **Singbox Core Clients:**
-  - [Nekobox]
-  - [Exclave] ⭐ (Recommended)
-  - [Singbox]
-  - [Sagernet]
-  - [Karing]
-  - [Husi]
-
-- **Clash Core Clients:**
-  - [Clash-Meta] ⭐ (Recommended)  
-  - [FIClash]  
-  - [ClashMi]
-
-<hr/><br/> 
-
-## Credits
-Many thanks to [NiREvil] and [zizifn]
-
-
-[zizifn]: https://github.com/zizifn/edgetunnel
-[N-zizifn]: https://github.com/NiREvil/zizifn
-[harmony]: https://github.com/NiREvil/Harmony
-[NiREvil]: https://github.com/NiREvil
-[login]: https://dash.cloudflare.com/login
-[signup]: https://dash.cloudflare.com/sign-up
-[mail]: https://mail.tm/en
-[uuid]: https://www.uuidgenerator.net
-[proxyip]: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
-[scamalytics]: https://scamalytics.com/ip/api/enquiry?monthly_api_calls=5000
-[cleanip]: https://github.com/NiREvil/vless/blob/main/Cloudflare-IPs.json
-[v2RayNG]: https://github.com/2dust/v2rayng/releases
-[Singbox]: https://github.com/SagerNet/sing-box/releases
-[Hiddify]: https://github.com/hiddify/hiddify-app/releases
-[Exclave]: https://github.com/dyhkwong/Exclave/releases
-[Nekobox]: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
-[Sagernet]: https://github.com/dyhkwong/SagerNet/releases
-[MahsaNG]: https://github.com/mahsanet/MahsaaNG/releases
-[NikaNG]: https://github.com/mahsanet/NikaNG/releases
-[Karing]: https://github.com/KaringX/karing/releases
-[Streisand]: https://apps.apple.com/app/id6450534064
-[Husi]: https://github.com/xchacha20-poly1305/husi/releases
-[Nekoray]: https://github.com/MRT-project/Neko-ray/releases
-[v2rayTun]: https://play.google.com/store/apps/details?id=com.v2raytun.android
-[Happ]: https://play.google.com/store/apps/details?id=com.happproxy
-[Clash-Meta]: https://github.com/MetaCubeX/ClashMetaForAndroid/releases
-[FIClash]: https://github.com/chen08209/FlClash/releases
-[ClashMi]: https://github.com/KaringX/clashmi/releases
-[v2rayN]: https://github.com/2dust/v2rayN/releases
-[v2rayN-Pro]: https://github.com/lowercase78/V2RayN-PRO/releases/
-[Throne]: https://github.com/throneproj/Throne/releases
+## @kingo_team
